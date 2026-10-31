@@ -1,0 +1,7 @@
+Zhang, Y., Wang, S., Zio, E., Zhang, C., Dui, H., Chen, R., 2025. Multi-objective maintenance strategy for complex systems considering the maintenance uncertain impact by adaptive multi-strategy particle swarm optimization. Reliability Engineering & System Safety 256, 110671.
+
+DOI: https://doi.org/10.1016/j.ress.2024.110671
+
+Verification: checked against the PDF deposited by Politecnico di Milano and the DOI record on Crossref (2026-10-30).
+The PDF is not included here because the publisher holds the copyright (© 2024 Elsevier Ltd). It can be read at:
+https://re.public.polimi.it/bitstream/11311/1305170/1/1-s2.0-S0951832024007427-main.pdf

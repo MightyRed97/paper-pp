@@ -1,0 +1,7 @@
+Zhan, Z.-H., Zhang, J., Li, Y., Chung, H.S.-H., 2009. Adaptive particle swarm optimization. IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics) 39 (6), 1362–1381.
+
+DOI: https://doi.org/10.1109/tsmcb.2009.2015956
+
+Verification: checked against the PDF deposited by the University of Glasgow and the DOI record on Crossref (2026-10-30).
+The PDF is not included here because the publisher holds the copyright (© 2009 IEEE). It can be read at:
+http://eprints.gla.ac.uk/7645/

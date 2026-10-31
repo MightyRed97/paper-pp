@@ -1,0 +1,6 @@
+Gao, Z., Yang, X., 2026. MCPSO-ALS: a multi-swarm collaborative particle swarm optimization with adaptive learning strategy for solving global optimization problems. Mathematics 14 (17), 3210.
+
+DOI: https://doi.org/10.3390/math14173210
+
+Verification: The DOI record on Crossref confirms the title, authors, venue and year (checked 2026-10-30).
+The full text could not be downloaded automatically (paywalled, or the publisher blocks automated requests).

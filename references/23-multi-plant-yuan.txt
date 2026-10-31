@@ -1,0 +1,6 @@
+Yuan, H., Hu, Q., Bi, J., Gong, G., Zhang, J., Zhou, M., 2024. Machine-level collaborative manufacturing and scheduling for heterogeneous plants. IEEE Internet of Things Journal 11 (9), 16591–16603.
+
+DOI: https://doi.org/10.1109/jiot.2024.3354251
+
+Verification: The DOI record on Crossref confirms the title, authors, venue and year (checked 2026-10-30).
+The full text could not be downloaded automatically (paywalled, or the publisher blocks automated requests).
